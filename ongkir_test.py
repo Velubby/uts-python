@@ -1,5 +1,7 @@
 from rapidsend_ongkir import hitung_ongkir
 
+
+print(hitung_ongkir.__doc__)
 # Test 1: tanpa asuransi
 print(hitung_ongkir(3, "Jakarta"))  
 

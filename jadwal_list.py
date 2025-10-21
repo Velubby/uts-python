@@ -2,8 +2,8 @@
 
 def jadwal_hari(hari):
     """
-    Menampilkan jadwal kuliah berdasarkan hari yang diminta.
-    Pencarian dilakukan dengan mengecek satu per satu isi list dalam dictionary.
+* Menampilkan jadwal kuliah berdasarkan hari yang diminta.
+* Pencarian dilakukan dengan mengecek satu per satu isi list dalam dictionary.
     """
     jadwal = {
         "Senin": ["Pengantar IoT", "Bahasa Inggris"],

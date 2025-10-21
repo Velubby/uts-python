@@ -2,8 +2,7 @@
 
 def hitung_ongkir(berat_kg, kota, asuransi=False):
     """
-    Menghitung ongkos kirim berdasarkan kota, berat (kg), dan opsi asuransi.
-    Return : Ongkir
+* Menghitung ongkos kirim berdasarkan kota, berat (kg), dan opsi asuransi.
     """
     tarif_dasar = {
         "Jakarta": 15000,
